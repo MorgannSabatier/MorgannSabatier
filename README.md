@@ -4,7 +4,9 @@
 - 💞️ I’m looking for a Data science internship in Paris !
 - 📫 How to reach me : morgannsabatier@gmail.com
 
-[![LinkedIn: morgannsabatier](https://img.shields.io/badge/-Morgann%20Sabatier-steelblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morgann-sabatier-92243313b)](https://www.linkedin.com/in/morgann-sabatier-92243313b) [![Twitter: morgannsabatier](https://img.shields.io/badge/-@MorgannSabatier-deepskyblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MorgannSabatier)](https://twitter.com/MorgannSabatier) 
+[![LinkedIn: morgannsabatier](https://img.shields.io/badge/-Morgann%20Sabatier-steelblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morgann-sabatier-92243313b)](https://www.linkedin.com/in/morgann-sabatier-92243313b) [![Twitter: morgannsabatier](https://img.shields.io/badge/-@MorgannSabatier-deepskyblue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MorgannSabatier)](https://twitter.com/MorgannSabatier)  [![DataCamp: morgannsabatier](https://img.shields.io/badge/-@MorgannSabatier-limegreen?style=flat-square&logo=datacamp&logoColor=black&link=https://datacamp.com/profile/morgannsabatier)](https://datacamp.com/profile/morgannsabatier) 
+
+https://datacamp.com/profile/morgannsabatier
 
 I'm always trying to learn new things and will try to upload what i came up with for my classes projects and personal projects!
 I also upload some projects I did during my online courses 
