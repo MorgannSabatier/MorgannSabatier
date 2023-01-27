@@ -23,6 +23,7 @@ I also upload some projects I did during my online courses
 </p>
 
 <h3> 👀 Coming soon: </h3>
+
 * Praat projects 
 * PyTorch project
 * Bibliometry
